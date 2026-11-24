@@ -1,3 +1,4 @@
 title: SCSTA
-description: scsta?
-theme: minima
+description: Watch the world become as naught
+theme: jekyll-theme-hacker
+baseurl: "/scsta"
