@@ -1,6 +1,5 @@
 title: SCSTA
 description: scsta?
 remote_theme: riggraz/no-style-please
-baseurl: "/scsta"
 theme_config:
   appearance: "dark" # or "light"
