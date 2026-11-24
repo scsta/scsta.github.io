@@ -1,5 +1,6 @@
 title: SCSTA
 description: scsta?
-remote_theme: piharpi/jekyll-klise
+remote_theme: riggraz/no-style-please
 baseurl: "/scsta"
-mode: dark
+theme_config:
+  appearance: "dark" # or "light"
