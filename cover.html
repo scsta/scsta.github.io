@@ -5,6 +5,17 @@
     background: #111111 !important;
     color: #faf9f5 !important;
   }
+  #vis-container {
+    max-width: 720px; /* shrinks both width and height proportionally */
+    margin: 0 auto;
+  }
+
+  #vis-container svg,
+  #vis-container canvas {
+    max-height: 420px !important;
+    width: auto !important;
+    margin: 0 auto;
+  }
 </style>
 <html data-saved=""><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link id="icon-font" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.42.0/dist/tabler-icons.min.css" media="print" onload="this.media='all'"><noscript><link id="icon-font" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.42.0/dist/tabler-icons.min.css"></noscript><style>
 :root{--font-anthropic-sans:"anthropic-sans", ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;--font-anthropic-serif:"anthropic-serif", ui-serif, Georgia, "Times New Roman", serif}
