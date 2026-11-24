@@ -1,4 +1,6 @@
 title: SCSTA
 description: scsta?
-theme: jekyll-theme-slate
+remote_theme: tuur29/pages-themes-cayman
 baseurl: "/scsta"
+darkmode: true
+github_hide: true
