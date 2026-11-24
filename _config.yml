@@ -1,4 +1,5 @@
 title: SCSTA
 description: scsta?
-remote_theme: amitmerchant1990/reverie
+remote_theme: piharpi/jekyll-klise
 baseurl: "/scsta"
+mode: dark
